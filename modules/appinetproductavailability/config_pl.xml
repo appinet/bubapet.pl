@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>appinetproductavailability</name>
+    <displayName><![CDATA[Oznaczanie dostępności produktu]]></displayName>
+    <version><![CDATA[1.1.4]]></version>
+    <description><![CDATA[Moduł pozwala oznaczać dostępność produktu oraz jego kombinacji.]]></description>
+    <author><![CDATA[appiNET]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
